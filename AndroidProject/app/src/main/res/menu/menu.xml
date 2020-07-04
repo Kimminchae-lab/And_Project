@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/recent"
+        android:title="최근 목적지" />
+    <item
+        android:id="@+id/calorie"
+        android:title="이번 주 소모된 칼로리" />
+</menu>
